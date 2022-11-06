@@ -1,0 +1,144 @@
+p {
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 20px;
+	color: rgb(96, 7, 94);
+}
+
+.title {
+	font-family: Arkhip, sans-serif;
+	font-size: 20px;
+	color: rgb(102, 24, 175);
+	font-weight: 900;
+	text-shadow: 3px 3px 5px rgb(234, 21, 223);
+}
+
+.entry {
+	font-family: Arkhip, sans-serif;
+	font-size: 20px;
+	color: blueviolet;
+	font-weight: 500;
+}
+
+.list-content {
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 20px;
+	color: rgb(25, 113, 113);
+	letter-spacing: 4px;
+	line-height: 1.5;
+	text-align: center;
+	text-decoration: underline;
+}
+
+h2 {
+	font-family: Roboto, sans-serif;
+	font-size: 30px;
+	color: rgb(0, 0, 0);
+	text-shadow: 4px 4px 2px rgb(255, 0, 0), -4px -4px 2px rgb(47, 92, 255);
+}
+
+#content {
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 25px;
+	color: rgb(42, 165, 110);
+	font-weight: 900;
+}
+
+.text-consept>p {
+	background-color: bisque;
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 15px;
+	font-weight: 500;
+	font-style: italic;
+	color: brown;
+	text-indent: 25px;
+}
+
+.beginer {
+	color: rgb(33, 25, 246);
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-weight: 900;
+}
+
+.history-text * {
+	background-color: rgb(65, 61, 51);
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 15px;
+	font-weight: 700;
+	color: rgb(243, 236, 236);
+	text-indent: 25px;
+	letter-spacing: 4px;
+}
+
+.text-watch~p {
+	background-color: rgb(185, 41, 168);
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 15px;
+	font-weight: 500;
+	color: rgb(243, 236, 236);
+	text-indent: 25px;
+	letter-spacing: 4px;
+	word-spacing: 10px;
+}
+
+.text-theory {
+	background-color: rgb(203, 132, 131);
+	padding: 20px 40px;
+}
+
+.text-theory+p {
+	background-color: rgb(95, 3, 1);
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 15px;
+	font-weight: 700;
+	color: rgb(177, 250, 255);
+	text-indent: 25px;
+	line-height: 1.5;
+	word-spacing: 3px;
+}
+
+.text-masses p {
+	background-color: rgb(63, 9, 56);
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 15px;
+	font-weight: 100;
+	color: rgb(255, 233, 160);
+	text-indent: 25px;
+	line-height: 1.5;
+	word-spacing: 6px;
+}
+
+.text-falling {
+	padding: 20px;
+	background-color: rgb(125, 97, 97);
+}
+
+.text-set {
+	margin: 20px;
+	background-color: rgb(255, 134, 253);
+}
+
+.text-holes {
+	margin: 20px 40px 60px 80px;
+	background-color: rgb(154, 208, 255);
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	font-weight: 900;
+	color: rgb(43, 157, 14);
+}
+
+.star-masses {
+	padding: 5%;
+	margin: 40px 10px 40px;
+	background-color: rgb(255, 161, 161);
+}
+
+.supermass,
+.prime,
+.quant {
+	padding: 15%;
+	margin: 50px;
+	background-color: rgb(253, 255, 121);
+}
